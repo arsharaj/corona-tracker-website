@@ -1,0 +1,58 @@
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #fff;
+  background-color: #F9ED69;
+  font-family: "Ubuntu", sans-serif;
+}
+
+nav {
+  background-color: #6A2C70;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #6A2C70;
+  padding: 2% 0;
+}
+
+footer a {
+  color: #cecece;
+  font-weight: bold;
+  margin: 0 1%;
+}
+
+footer a:hover {
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+section {
+  margin-top: 50px;
+}
+
+
+thead {
+  background-color: #F08A5D;
+  color: #fff;
+}
+
+.heading {
+  font-size: 2rem;
+  color: #6A2C70;
+}
+
+.about-me {
+  background-color: #F08A5D;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  padding: 5%;
+  margin: 3% 0;
+}
+
+.divider {
+  height: 50px;
+}
