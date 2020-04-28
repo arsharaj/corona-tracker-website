@@ -1,3 +1,6 @@
+## Status : Closed
+### Since there are many more websites that are gathering the data in a much better way. So, I am closing this project now.
+
 # Corona Tracker India
 > Stay Home ,
 > Be Safe !
