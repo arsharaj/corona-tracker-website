@@ -1,0 +1,3 @@
+from corona_tracker_india.tracker import track_corona_india
+
+track_corona_india()
